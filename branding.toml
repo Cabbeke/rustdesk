@@ -1,0 +1,8 @@
+app_name = "WebWorx Cabbeke"
+server = "remote.webworxcabbeke.be"
+lock_server = true
+
+logo = "branding/logo.png"
+icon_windows = "branding/icon.ico"
+icon_linux = "branding/icon.png"
+icon_macos = "branding/icon.icns"
